@@ -1,4 +1,4 @@
-# There's nothing useful in here right now.
+# There's nothing useful right now.
 But later there'll be some interesting stuff on ML and programming.
 
 
