@@ -1,5 +1,5 @@
 # There's nothing useful in here right now.
-But later there'll be some interesting stuff on ML and programming. You can also visit my [github account](https://github.com/gostkin).
+But later there'll be some interesting stuff on ML and programming.
 
 
-(c) Eugene Gostkin 2017
+####_(c) Eugene Gostkin 2017_
