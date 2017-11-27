@@ -25,7 +25,7 @@ func DifferentWordsCount(s string) int {
     word := ""
     ret := 0
     for _, c := range (s + " ") {
-        if !unicode.IsDigit(c) {
+        if unicode.IsLetter(c) {
             word += string(unicode.ToLower(c))
         } else if word != "" {
             if !set[word] {
