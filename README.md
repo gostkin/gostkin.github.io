@@ -1,3 +1,3 @@
 # Eugene Gostkin
 
-## [Resume](https://www.github.com/gostkin/gostkin.github.io/cve.pdf "CV")
+## [Resume](https://github.com/gostkin/gostkin.github.io/blob/master/cve.pdf "CV")
