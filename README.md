@@ -1,3 +1,3 @@
-# _(c) Eugene Gostkin 2017_
+# Eugene Gostkin
 
-[CV](https://www.github.com/gostkin/gostkin.github.io/cve.pdf "CV")
+## [Resume](https://www.github.com/gostkin/gostkin.github.io/cve.pdf "CV")
