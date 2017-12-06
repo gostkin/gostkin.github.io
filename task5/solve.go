@@ -42,8 +42,8 @@ func addLink(writer http.ResponseWriter, request *http.Request) {
 	key := nextKey()
 	urls[key] = url
 
-	rjson := map[string]string {"key": key}
-	result, _ := json.Marshal(rjson)
+	resjson := map[string]string {"key": key}
+	result, _ := json.Marshal(resjson)
 	writer.Write(result)
 }
 
